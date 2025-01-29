@@ -127,7 +127,7 @@ a{
 .paragraph-dark p{
     background-color: grey;
     border: 2px solid white;
-    column-rule: 2px solid white;
+    column-rule:2px solid white !important;
     color: white;
     transition: all 0.3s, color 0.3s;
 }
