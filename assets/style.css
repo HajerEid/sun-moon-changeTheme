@@ -195,4 +195,8 @@ body{
         box-sizing: border-box;
         width: 100%;
     }
+    .paragraph.Two p {
+        column-count: unset;
+    }
+
 }
